@@ -1,0 +1,9 @@
+c:\users\adam\Source\Repos\Generator\Generator\bin\Release\Generator.exe.config
+c:\users\adam\Source\Repos\Generator\Generator\bin\Release\Generator.exe
+c:\users\adam\Source\Repos\Generator\Generator\bin\Release\Generator.pdb
+c:\users\adam\Source\Repos\Generator\Generator\obj\Release\Generator.Form1.resources
+c:\users\adam\Source\Repos\Generator\Generator\obj\Release\Generator.Properties.Resources.resources
+c:\users\adam\Source\Repos\Generator\Generator\obj\Release\Generator.csproj.GenerateResource.Cache
+c:\users\adam\Source\Repos\Generator\Generator\obj\Release\Generator.csproj.CoreCompileInputs.cache
+c:\users\adam\Source\Repos\Generator\Generator\obj\Release\Generator.exe
+c:\users\adam\Source\Repos\Generator\Generator\obj\Release\Generator.pdb
